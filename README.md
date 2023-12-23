@@ -8,7 +8,7 @@
 
 ### Demo URL
 
-https://vardhan-venkata.github.io/react-bootstrap-todo-app/
+- https://vardhan-venkata.github.io/react-todo-app/
 
 ### Packages used
 
